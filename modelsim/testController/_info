@@ -1,0 +1,253 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/lab7/sim/modelsim
+valu
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1574282373
+!i10b 1
+!s100 mAeMSzCmJo:3mbW<4i=TL3
+IC6KY8BMLElg4YiR^DGo[d3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 alu_sv_unit
+S1
+Z3 dC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/modelsim
+w1574273011
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/alu.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/alu.sv
+L0 25
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1574282373.000000
+!s107 C:\Users\ziel_\Desktop\Disciplinas\Cicuitos Digitais II\Arquivos Praticas\circuitos-digitais-ii\proj-mips-single-cycle\verilog\aluop.svh|C:\Users\ziel_\Desktop\Disciplinas\Cicuitos Digitais II\Arquivos Praticas\circuitos-digitais-ii\proj-mips-single-cycle\verilog\opcode.svh|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/alu.sv|
+!s90 -reportprogress|300|-work|testController|-sv|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/alu.sv|
+!i113 1
+Z6 o-work testController -sv
+Z7 tCvgOpt 0
+valudec
+R0
+Z8 !s110 1574282374
+!i10b 1
+!s100 S]S6PLaoMNP3C:WzkBdnZ3
+IJhfSZ<j8Z4`DVAVjZ@I9;0
+R2
+!s105 aludec_sv_unit
+S1
+R3
+w1574258213
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/aludec.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/aludec.sv
+L0 24
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:\Users\ziel_\Desktop\Disciplinas\Cicuitos Digitais II\Arquivos Praticas\circuitos-digitais-ii\proj-mips-single-cycle\verilog\aluop.svh|C:\Users\ziel_\Desktop\Disciplinas\Cicuitos Digitais II\Arquivos Praticas\circuitos-digitais-ii\proj-mips-single-cycle\verilog\opcode.svh|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/aludec.sv|
+!s90 -reportprogress|300|-work|testController|-sv|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/aludec.sv|
+!i113 1
+R6
+R7
+vcontroller
+R0
+Z9 !s110 1576029255
+!i10b 1
+!s100 bUeUFT]AZRFKGJZ;_[OMU0
+I]PI7S3l<DS5[5BPh?O;f?1
+R2
+!s105 controller_sv_unit
+S1
+R3
+w1574824083
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/controller.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/controller.sv
+L0 35
+R4
+r1
+!s85 0
+31
+!s108 1576029254.000000
+!s107 C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/aluop.svh|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/opcode.svh|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/controller.sv|
+!s90 -reportprogress|300|-work|testController|-sv|+incdir+C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/controller.sv|
+!i113 1
+R6
+Z10 !s92 -work testController -sv {+incdir+C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog}
+R7
+vcontroller_test
+R0
+R9
+!i10b 1
+!s100 0`]K4GM8GWckgcNBM_:>01
+I`9eZeHzOO=0HHEB8EQH?J3
+R2
+Z11 !s105 controller_test_sv_unit
+S1
+R3
+Z12 w1575844361
+Z13 8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/sim/tb/controller_test.sv
+Z14 FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/sim/tb/controller_test.sv
+L0 18
+R4
+r1
+!s85 0
+31
+Z15 !s108 1576029255.000000
+Z16 !s107 C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/aluop.svh|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/opcode.svh|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/sim/tb/controller_test.sv|
+Z17 !s90 -reportprogress|300|-work|testController|-sv|+incdir+C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/sim/tb/controller_test.sv|
+!i113 1
+R6
+R10
+R7
+vdatapath
+R0
+!s110 1574282375
+!i10b 1
+!s100 0aUXl<LaXF1R3SA3PP?Re2
+IS@`KAkjOSU@D:?@B_b`R[2
+R2
+!s105 datapath_sv_unit
+S1
+R3
+w1574282098
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/datapath.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/datapath.sv
+L0 17
+R4
+r1
+!s85 0
+31
+!s108 1574282375.000000
+!s107 C:\Users\ziel_\Desktop\Disciplinas\Cicuitos Digitais II\Arquivos Praticas\circuitos-digitais-ii\proj-mips-single-cycle\verilog\aluop.svh|C:\Users\ziel_\Desktop\Disciplinas\Cicuitos Digitais II\Arquivos Praticas\circuitos-digitais-ii\proj-mips-single-cycle\verilog\opcode.svh|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/datapath.sv|
+!s90 -reportprogress|300|-work|testController|-sv|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/datapath.sv|
+!i113 1
+R6
+R7
+vdmem
+R0
+R8
+!i10b 1
+!s100 oN>3PoLZYUVQAeV3FabNn0
+I_BX7??eARKCZQBozU_N5:1
+R2
+!s105 dmem_sv_unit
+S1
+R3
+w1574276795
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/dmem.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/dmem.sv
+L0 20
+R4
+r1
+!s85 0
+31
+Z18 !s108 1574282374.000000
+!s107 C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/dmem.sv|
+!s90 -reportprogress|300|-work|testController|-sv|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/dmem.sv|
+!i113 1
+R6
+R7
+vimem
+R0
+R8
+!i10b 1
+!s100 4e84cPZo=ho1Ilk0AaCB;2
+IWW03C2RQ5hbk7ZZGa_EOO3
+R2
+!s105 imem_sv_unit
+S1
+R3
+w1574276794
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/imem.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/imem.sv
+L0 21
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/imem.sv|
+!s90 -reportprogress|300|-work|testController|-sv|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/imem.sv|
+!i113 1
+R6
+R7
+vmips
+R0
+R8
+!i10b 1
+!s100 iHK3G9aO^_Ce60af4oaB>1
+INFzTL_CV3[im:Q4Yo[_Ja0
+R2
+!s105 mips_sv_unit
+S1
+R3
+w1574268025
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/mips.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/mips.sv
+L0 29
+R4
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/mips.sv|
+!s90 -reportprogress|300|-work|testController|-sv|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/mips.sv|
+!i113 1
+R6
+R7
+vregister_file
+R0
+R1
+!i10b 1
+!s100 c3??F`<0[jBeacMjJ02hY0
+IgNa@j:bOiQY8NJQSgFnJV3
+R2
+!s105 register_file_sv_unit
+S1
+R3
+w1574276930
+8C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/register_file.sv
+FC:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/register_file.sv
+L0 27
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/register_file.sv|
+!s90 -reportprogress|300|-work|testController|-sv|-stats=none|C:/Users/ziel_/Desktop/Disciplinas/Cicuitos Digitais II/Arquivos Praticas/circuitos-digitais-ii/proj-mips-single-cycle/verilog/register_file.sv|
+!i113 1
+R6
+R7
+vselfcheck
+R0
+R9
+!i10b 1
+!s100 j@nWNe=:>_=J4;cJjiN0l2
+I0KVXM6_]jE3<z^P:hP^;D3
+R2
+R11
+S1
+R3
+R12
+R13
+R14
+L0 123
+R4
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R6
+R10
+R7
